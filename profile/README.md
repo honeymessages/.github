@@ -4,15 +4,10 @@ This repository contains the code of the honeymessages framework used to monitor
 
 ## Citation
 
-If you use our code or refer to our results, please cite our paper.
+If you use our code or refer to our paper, please cite it.
 
 ```bibtex
-@inproceedings{kirchner2024:honeymessages,
-  title={A {B}lack-{B}ox {P}rivacy {A}nalysis of {M}essaging {S}ervice {P}roviders' {C}hat {M}essage {P}rocessing},
-  author={Kirchner, Robin and Koch, Simon and Kamangar, Noah and Klein, David and Johns, Martin},
-  booktitle={Proceedings on {P}rivacy {E}nhancing {T}echnologies ({PoPETs})},
-  year={2024}
-}
+...
 ```
 
 ## How to use this Organization
